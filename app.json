@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "biased-red-celery",
+    "slug": "snack-50eee792-2369-4d51-ad1d-3fc65834b63f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.salim12345.snack50eee79223694d51ad1d3fc65834b63f"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee0e43ae-9c73-4823-ab5e-6a3046c5354a"
+      }
+    }
+  }
+}
