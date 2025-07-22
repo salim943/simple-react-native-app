@@ -1,11 +1,29 @@
-# Sample Snack app
+Follow the steps below to run this React Native application using Expo:
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# Installation
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+In the root of the project directory, run:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+```bash
+npm install
+```
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+This will install all necessary dependencies.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# Start the Development Server
+
+Once the installation is complete, start the Expo development server by running:
+
+```bash
+npx expo start
+```
+
+# Run on Your Mobile Device
+
+1. Install the **Expo Go** app from the [App Store](https://apps.apple.com) or [Google Play Store](https://play.google.com).
+2. Scan the QR code displayed in your terminal or browser using Expo Go.
+3. Your app will open and run on your mobile device.
+
+---
+
+For any issues or questions, feel free to open an issue in this repository.
