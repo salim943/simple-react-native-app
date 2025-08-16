@@ -1,12 +1,16 @@
 
 import React from 'react';
+import CreateUser from './CreateUser';
+import CreateTodo from './CreateTodo';
+import UserList from './UserList';
 import { View, Button } from 'react-native';
 
 export default function HomeScreen({ navigation }) {
   return (
     <View style={{ padding: 20 }}>
-      <Button title="Go to Simulation 1" onPress={() => navigation.navigate('SimulationOne')} />
-      <Button title="Go to Simulation 2" onPress={() => navigation.navigate('SimulationTwo')} />
+      <CreateUser />
+      <CreateTodo />
+      <UserList />
     </View>
   );
 }
