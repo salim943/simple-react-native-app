@@ -18,6 +18,15 @@ Once the installation is complete, start the Expo development server by running:
 npx expo start
 ```
 
+# For Backend
+
+In the /app directory, run:
+
+```bash
+uvicorn main:app --reload
+```
+Make sure your virtual environment is activated if you are using one.
+
 # Run on Your Mobile Device
 
 1. Install the **Expo Go** app from the [App Store](https://apps.apple.com) or [Google Play Store](https://play.google.com).
