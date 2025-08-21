@@ -33,6 +33,9 @@ Make sure your virtual environment is activated if you are using one.
 2. Scan the QR code displayed in your terminal or browser using Expo Go.
 3. Your app will open and run on your mobile device.
 
+# Try our App
+[Click here](https://ln5.sync.com/dl/4715f8030#n8fyp3q2-e24uvggn-za6nbvvw-zib5ft3u)
+
 ---
 
 For any issues or questions, feel free to open an issue in this repository.
